@@ -43,9 +43,6 @@ flight_arrival_delay_prediction/
 │   ├── xgboost_parameter_tuning_and_voting_regressor.ipynb
 │   ├── best_models_voting_regressor.ipynb
 │   ├── best_single_model_lightgbm.ipynb
-├── results/
-│   ├── submission1.csv
-│   ├── submission2.csv
 ├── README.md
 ├── requirements.txt
 ```
